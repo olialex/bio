@@ -14,6 +14,8 @@
   grid-template-columns: repeat(2, 1fr);
   gap: 0.8rem;
   width: 100%;
+
+  padding: 1rem;
 }
 
 /* --- CONTROL DE COLUMNAS Y FILAS --- */
