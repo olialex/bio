@@ -37,7 +37,7 @@ body {
 /* --- SECCIÓN 1: HERO CON FONDO ROTATIVO (100dvh) --- */
 .hero-section {
   position: relative;
-  min-height: 100dvh;
+  min-height: 100svh;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -220,7 +220,7 @@ body {
 
 /* --- SECCIÓN 3: CONTACTO (100dvh) --- */
 .contact-section {
-  min-height: 100dvh;
+  min-height: 100svh;
   width: 100%;
   display: flex;
   align-items: center;
